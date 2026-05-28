@@ -96,15 +96,6 @@ Credit-Risk-Monitoring-System/
 └── README.md
 ```
 
----
-
-## Future Improvements
-- Power BI dashboard integration
-- Advanced ML models
-- Automated risk reporting
-- Real-time monitoring pipelines
-
----
 
 ## Author
 Preetika
