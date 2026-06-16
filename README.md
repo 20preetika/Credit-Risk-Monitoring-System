@@ -26,7 +26,6 @@ The project includes:
 - SQLAlchemy
 - Scikit-learn
 - Jupyter Notebook
-- VS Code
 
 ---
 
