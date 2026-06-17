@@ -83,18 +83,6 @@ The project includes:
 
 ---
 
-## Project Structure
-
-```text
-Credit-Risk-Monitoring-System/
-│
-├── data/
-├── notebooks/
-├── sql_queries/
-├── screenshots/
-└── README.md
-```
-
 
 ## Author
 Preetika
